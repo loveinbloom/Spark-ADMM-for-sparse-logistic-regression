@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="F:\Users\张佳锋\Documents\project\SparkADMM\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="F:\Users\张佳锋\Documents\project\SparkADMM" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
